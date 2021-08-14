@@ -1,0 +1,11 @@
+{   
+    "appTitle": "EmployeeByte Inc",
+    "login": "LOGIN",
+    "signUp": "SIGN UP",
+    "emptyFieldErrorText":"Field must not be empty",
+    "firstName":"First Name",
+    "lastName":"Last Name",
+    "email":"Email",
+     "address":"Address",
+     "address":"Date Of Birth"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904764922880",
+    "project_id": "employeebyte-f9059",
+    "storage_bucket": "employeebyte-f9059.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904764922880:android:377b3e53e39afd26154ce5",
+        "android_client_info": {
+          "package_name": "com.employeebyte.com.employeebyte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904764922880-qeehpk3o2fbtds2tfaagvb34caivmd7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ47eA86E-xRCHTZMQCs7s3yytZiobf9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904764922880-qeehpk3o2fbtds2tfaagvb34caivmd7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
